@@ -7,8 +7,8 @@ At the end of it, I'll have demonstrated basic Git usage and HTML skills.
 
 Mini Checklist:
 
-HTML Boilerplate []
-Headings and Text []
-Links []
-Images[]
-Lists []
+HTML Boilerplate [X]
+Headings and Text [X]
+Links [X]
+Images[X]
+Lists [X]
